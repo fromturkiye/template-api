@@ -1,2 +1,2 @@
-# template-api
-an api template from fromtr
+# GOLANG API PROJE ÖRNEĞİ
+
