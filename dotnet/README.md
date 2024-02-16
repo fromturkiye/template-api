@@ -5,13 +5,21 @@ Bu proje, .NET Core kullanılarak oluşturulmuş RESTful bir API örneğidir. Mo
 
 ### Teknolojiler :bulb:
 :star: Orm: EF
+
 :star: Auth: JWT
+
 :star: Infra: Vertical Slice
+
 :star: DB: PostgreSQL
+
 :star: Cache: Redis
+
 :star: Validation: FluentValidation
+
 :star: DI Helper: Carter
+
 :star: CQRS: MediaTR
+
 
 ### Önkoşullar :paperclip:
 
