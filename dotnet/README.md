@@ -1,19 +1,19 @@
 
-# .NET Core API Projesi :tw-1f4e2:
+# .NET Core API Projesi :loudspeaker:
 
 Bu proje, .NET Core kullanılarak oluşturulmuş RESTful bir API örneğidir. Modern web uygulamaları ve servis mimarileri için temel oluşturmayı amaçlar.
 
-### Teknolojiler :tw-1f4fb:
-:tw-1f31f: Orm: EF
-:tw-1f31f: Auth: JWT
-:tw-1f31f: Infra: Vertical Slice
-:tw-1f31f: DB: PostgreSQL
-:tw-1f31f: Cache: Redis
-:tw-1f31f: Validation: FluentValidation
-:tw-1f31f: DI Helper: Carter
-:tw-1f31f: CQRS: MediaTR
+### Teknolojiler :bulb:
+:star: Orm: EF
+:star: Auth: JWT
+:star: Infra: Vertical Slice
+:star: DB: PostgreSQL
+:star: Cache: Redis
+:star: Validation: FluentValidation
+:star: DI Helper: Carter
+:star: CQRS: MediaTR
 
-### Önkoşullar :tw-1f4ce:
+### Önkoşullar :paperclip:
 
 Projeyi çalıştırmak için aşağıdakilere ihtiyacınız var:
 
@@ -24,11 +24,11 @@ Projeyi çalıştırmak için aşağıdakilere ihtiyacınız var:
 - [Redis IDE](https://goanother.com/)
 - [EF Cli](https://learn.microsoft.com/en-us/ef/core/cli/dotnet)
 
-### Docker Kurulumları :tw-1f40b:
+### Docker Kurulumları :whale:
 - postgreSQL:
 - redis:
 
-### Kurulum :tw-1f4a3:
+### Kurulum :bomb:
 
 Projeyi lokal makinenize klonlayın:
 
@@ -55,11 +55,11 @@ Uygulamayı çalıştırın:
 dotnet run
 ```
 
-### Projeyi Docker'da Çalıştırma :tw-1f40b:
+### Projeyi Docker'da Çalıştırma :whale:
 - build:
 - run:
 
-### Kullanım :tw-1f47d:
+### Kullanım :skull:
 
 Bu bölüm, API'nin temel kullanım örneklerini içerir.
 
@@ -70,11 +70,11 @@ curl -X GET "http://localhost:5000/api/values" -H "accept: */*"
 ```
 
 
-### API Dokümantasyonu :tw-1f4cb:
+### API Dokümantasyonu :thought_balloon:
 
 API dokümantasyonu için [Swagger](https://swagger.io) kullanılmıştır. Dokümantasyona erişmek için tarayıcınızda `http://localhost:5000/swagger` adresini ziyaret edin.
 
-### Testler :tw-1f4a9:
+### Testler :hankey:
 
 Proje, birim testleri içerir. Testleri çalıştırmak için:
 
@@ -82,7 +82,7 @@ Proje, birim testleri içerir. Testleri çalıştırmak için:
 dotnet test
 ```
 
-## Katkıda Bulunma :tw-1f525:
+## Katkıda Bulunma :fire:
 
 Projeye katkıda bulunmak isteyenler için yönergeler.
 
@@ -92,11 +92,11 @@ Projeye katkıda bulunmak isteyenler için yönergeler.
 4. Branch'inize Push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-## Lisans :tw-1f4dc:
+## Lisans :page_facing_up:
 
 Bu proje MIT Lisansı altında lisanslanmıştır - daha fazla detay için [LICENSE.md](https://github.com/fromturkiye/template-api/blob/master/LICENSE) dosyasına bakın.
 
-## Teşekkürler :tw-1f64f:
+## Teşekkürler :pray:
 - Tüm katkıda bulunanlara teşekkürler
 
 Projeyi incelediğiniz için teşekkürler! Sorularınız veya önerileriniz varsa, lütfen bir issue açın.
