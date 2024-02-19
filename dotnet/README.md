@@ -20,6 +20,11 @@ Bu proje, .NET Core kullanılarak oluşturulmuş RESTful bir API örneğidir. Mo
 
 :star: CQRS: MediaTR
 
+:star: Log: Seq
+
+:star: Mapper: Mapster
+
+:star: API Docs: Swagger
 
 ### Önkoşullar :paperclip:
 
